@@ -1,0 +1,8 @@
+[04-Apr-2022 09:23:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "YII_DEBUG" in /home/prezenty/public_html/prezenty/api/config/main.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/prezenty/public_html/prezenty/api/config/main.php on line 58
+[04-Apr-2022 09:23:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "YII_DEBUG" in /home/prezenty/public_html/prezenty/api/config/main.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/prezenty/public_html/prezenty/api/config/main.php on line 58

@@ -1,0 +1,86 @@
+  <!doctype html>
+  <html lang="en" style="overflow-x: hidden;">
+  <head>
+    <meta charset="utf-8">
+    <title>Prezenty</title>
+    <base href="/">
+    <!-- <base href="/prezenty-web-staging/"> -->
+    <!-- <base href="/prezenty-web/"> -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" >
+    <link  href="./assets/img/ic_logo.png" rel="icon">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <!-- Google Fonts -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet"> -->
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"> -->
+    <!-- <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet"> -->
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <!-- <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet"> -->
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css"></link>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
+    <link type="text/css" href="https://uicdn.toast.com/tui-color-picker/v2.2.6/tui-color-picker.css" rel="stylesheet"/>
+    <link type="text/css" href="https://uicdn.toast.com/tui-image-editor/latest/tui-image-editor.css" rel="stylesheet" />
+    <link href="assets/css/paper-dashboard.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js" integrity="sha512-jKxp7JHEN6peEmzmg6a7XJBORNTB0ITD2Pi+6FUkc16PCaNAJX2ahZ1ejn1p1uY37Pxyirn/0OMNZbITbEg3jw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="assets/css/demo.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="assets/vendor/purecounter/purecounter.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"defer></script>
+    <!-- country code with phone number -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+    <!-- razerpay integration -->
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <!-- live steam -->
+  <!-- file strorage -->
+  <script src="https://cdn.rawgit.com/localForage/localForage/4ce19202/dist/localforage.min.js"></script>
+
+    <!-- Image editor -->
+    <script  src="https://api-storage.cloud.toast.com/v1/AUTH_e18353c4ea5746c097143946d0644e61/toast-ui-cdn/tui-image-editor/v3.11.0/example/fabric-v4.2.0.js"></script>
+    <script  src="assets/js/tui-code-snippet.min.js"></script>
+    <script  src="https://uicdn.toast.com/tui-color-picker/v2.2.6/tui-color-picker.js" ></script>
+    <!-- <script src="assets/js/FileSaver.min.js"></script> -->
+    <script  src="assets/js/image-editor.js"></script>
+    <script src="assets/js/theme/white-theme.js"></script>
+    <!-- <script src="assets/js/theme/black-theme.js"></script> -->
+  <!-- onesignal sdk -->
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <!-- accordian -->
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<!-- sweet alert -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+
+
+    <!-- Template Main JS File -->
+    <script src="./assets/js/main.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
+  <link rel="stylesheet" href="styles.ed9fbcd260c628286a9c.css"></head>
+  <body style="background-color: #cae2e961;padding-right: 0px !important;">
+    <app-root></app-root>
+    <script>
+  jQuery(function ($) {
+    $("body").css("padding-right", "0px !important");
+    });
+
+
+      </script>
+      <style>
+        body {
+  font-family:  "Poppins", sans-serif !important ;
+}
+
+      </style>
+  <script src="runtime-es2015.3649f65ad683102834b1.js" type="module"></script><script src="runtime-es5.3649f65ad683102834b1.js" nomodule defer></script><script src="polyfills-es5.ed245ec08bc65223234e.js" nomodule defer></script><script src="polyfills-es2015.d22bdf67afa46e49e503.js" type="module"></script><script src="scripts.2d121699ba53abf714d4.js" defer></script><script src="main-es2015.12b91143833ca4a31935.js" type="module"></script><script src="main-es5.12b91143833ca4a31935.js" nomodule defer></script></body>
+  </html>

@@ -1,0 +1,107 @@
+<?php
+
+namespace api\modules\v1\controllers;
+use yii;
+use yii\data\Pagination;
+use yii\rest\ActiveController;
+use api\components\Auth;
+
+use common\models\FoodCouponBrand;
+
+class FoodCouponsController extends ActiveController
+{
+    public $modelClass = 'common\models\FoodCouponBrand';
+    
+/*    public function beforeAction($action)
+    {
+       $auth = Auth::validateToken();
+       if(count($auth) > 0) {
+         $this->asJson($auth);
+         return false;
+       }
+
+       return parent::beforeAction($action);
+    }*/
+
+    public function actions()
+    {
+        $actions = parent::actions();
+        unset($actions['create']);
+        unset($actions['update']);
+        unset($actions['delete']);
+        unset($actions['index']);
+        unset($actions['view']);
+        return $actions;
+    }
+
+    public function behaviors()
+    {
+        return array_merge(parent::behaviors(), [
+
+            // For cross-domain AJAX request
+            'corsFilter'  => [
+                'class' => \yii\filters\Cors::className(),
+                'cors'  => [
+                    // restrict access to domains:
+                    'Origin'                           => ["*"],
+                    'Access-Control-Request-Method'    => ["GET", "POST"],
+                    'Access-Control-Allow-Credentials' => true,
+                    // 'Access-Control-Max-Age'           => 3600,                 // Cache (seconds)
+                    'Access-Control-Request-Headers'           => ["*"],                 // Cache (seconds)
+                ],
+            ],
+
+        ]);
+    }
+
+    public function actionIndex()
+    {
+      $data = Yii::$app->request->get();
+      $page = isset($data['page'])? $data['page'] : 1;
+      $pageSize = isset($data['per_page'])? $data['per_page'] : 20;
+      
+      $query = FoodCouponBrand::find()->with(['vouchers']);
+      
+      $pagination = new Pagination([
+        'totalCount' => $query->count(),
+        'pageSize' => $pageSize,
+        'page' => $page - 1
+      ]);
+      
+      $hasNextPage = false;
+      if(($page * $pageSize) < ($pagination->totalCount)){
+        $hasNextPage = true;
+      }
+      
+      $vouchers = $query->offset($pagination->offset)
+            ->limit($pagination->limit)
+            ->asArray()
+            ->all();
+      
+      return [
+        'list' => $vouchers,
+        'brand_image_location' => UPLOADS_PATH . '/food-voucher-brands/',
+        'page' => (int) $page,
+        'perPage' => (int) $pageSize,
+        'hasNextPage' => $hasNextPage,
+        'totalCount' => (int) $pagination->totalCount,
+        'message' => 'Success',
+        'success' => true,
+        'statusCode' => 200,
+      ];
+    }
+
+    public function actionTermsAndConditions($id)
+    {
+        $model = FoodCouponBrand::findOne($id);
+        $ret = [
+                    
+                    'statusCode' => 200,
+                    'data' => $model['vchr_terms_conditions'],
+                    'message' => 'Listed Successfully',
+                    'success' => true
+                ];
+
+        return $ret;        
+    }    
+}

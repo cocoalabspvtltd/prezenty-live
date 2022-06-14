@@ -1,0 +1,1598 @@
+[23-Nov-2021 11:23:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.32. in /home1/prezenty/public_html/event-app/vendor/composer/platform_check.php on line 24
+[23-Nov-2021 17:33:08 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/config/params-local.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[23-Nov-2021 17:33:08 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/config/params-local.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[23-Nov-2021 17:33:08 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/config/params-local.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[23-Nov-2021 17:34:27 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/config/params-local.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[23-Nov-2021 17:34:27 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/config/params-local.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[23-Nov-2021 17:34:27 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/config/params-local.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/config/main.php on line 6
+[26-Nov-2021 11:01:46 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:01:46 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:01:46 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:02:16 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:02:16 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:02:16 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:37 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:37 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:37 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:04:51 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:05:27 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:05:27 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:05:27 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:06:05 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:06:05 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:06:05 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:08:41 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:08:41 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:08:41 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:26 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:26 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:26 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:32 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:32 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:10:32 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:33 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:33 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:33 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:59 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:59 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:45:59 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:52:39 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:52:39 UTC] PHP Warning:  require(/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 11:52:39 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/event-app/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/prezenty/public_html/event-app/api/web/index.php on line 5
+[26-Nov-2021 15:04:27 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:04:27 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:04:27 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:05:56 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:05:56 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:05:56 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:07:48 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:07:48 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:07:48 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:20:06 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:20:06 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:20:06 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:36 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:36 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:36 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:53 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:53 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:53 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:57 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:57 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:42:57 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:50 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:50 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:50 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:57 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:57 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:44:57 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:45:20 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:45:20 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:45:20 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:47:37 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:47:37 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:47:37 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:51:17 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:51:17 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 15:51:17 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:11:35 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:11:35 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:11:35 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:22:39 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:22:39 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:22:39 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:28 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:28 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:28 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:34 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:34 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:34 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:43 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:43 UTC] PHP Warning:  require(/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[26-Nov-2021 16:23:43 UTC] PHP Fatal error:  require(): Failed opening required '/home2/cocoaejr/public_html/aPrezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/cocoaejr/public_html/aPrezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 07:53:34 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:37:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:37:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:37:51 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:43:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:43:51 UTC] PHP Warning:  require(/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php): failed to open stream: No such file or directory in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[03-Dec-2021 11:43:51 UTC] PHP Fatal error:  require(): Failed opening required '/home1/prezenty/public_html/prezenty/api/web/../../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/prezenty/public_html/prezenty/api/web/index.php on line 5
+[23-Jan-2022 14:32:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare api\modules\v1\controllers\WoohooProductsController::actionProductDetail() in /home1/prezenty/public_html/prezenty-staging/api/modules/v1/controllers/WoohooProductsController.php on line 245
+[27-Jan-2022 17:04:27 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/prezenty/public_html/prezenty-staging/api/modules/v1/controllers/EventParticipantController.php on line 3
+[27-Jan-2022 17:05:29 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/prezenty/public_html/prezenty-staging/api/modules/v1/controllers/EventParticipantController.php on line 3
+[27-Jan-2022 17:05:30 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/prezenty/public_html/prezenty-staging/api/modules/v1/controllers/EventParticipantController.php on line 3
+[24-Feb-2022 15:15:03 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 225. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\ErrorException))
+#4 {main}
+Previous exception:
+yii\base\ErrorException: Undefined variable $ret in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php:259
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php(259): yii\base\ErrorHandler->handleError(2, 'Undefined varia...', '/home/prezenty/...', 259)
+#1 [internal function]: api\modules\v1\controllers\DecentroApiController->actionTransactionStatus('7', NULL)
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('transaction-sta...', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/decentro-api...', Array)
+#6 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#8 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YhdTn8cYqTco_BDocXH1iAAAAAc',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/transaction-status',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/transaction-status',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YhdTn8cYqTco_BDocXH1iAAAAAc',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/transaction-status',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/transaction-status',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YhdTn8cYqTco_BDocXH1iAAAAAc',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/transaction-status',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/transaction-status',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => 'fbedfe1a-f6da-4407-9bec-52942b1722f5',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '157.44.216.253',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '45348',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'id=7',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => 'id=7',
+    'REQUEST_URI' => '/prezenty/api/web/v1/decentro-api/transaction-status?id=7',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1645695903.4311580657958984375,
+    'REQUEST_TIME' => 1645695903,
+    'argv' => [
+        'id=7',
+    ],
+    'argc' => 1,
+]
+[27-Feb-2022 05:48:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:48:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:50:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:50:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:51:01 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:51:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:51:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:52:02 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:52:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:53:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:53:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:53:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:53:41 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:54:31 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:55:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:55:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:56:02 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:56:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:56:34 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:56:40 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:59:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 05:59:43 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 06:00:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 06:12:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 06:56:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 08:43:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 08:43:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 08:43:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 12:17:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 12:17:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 12:17:51 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:15 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:15 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:12:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 14:13:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:23:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:24:35 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:24:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:26:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:26:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:26:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:54 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:58 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:27:58 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:28:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:29:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:29:49 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:29:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:31:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 17:42:04 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:06:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:24:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:02 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:04 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:47 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:49 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:52 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[27-Feb-2022 19:53:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 00:18:54 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 02:51:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 02:51:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 02:51:31 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:27 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:45:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:47:51 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:47:58 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:48:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:49:54 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:53:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:53:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:53:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:53:24 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:05 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:35 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:40 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:42 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:56:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 03:58:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:01:42 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:01:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:01:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:01:47 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:01:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:32 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:36 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:39 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:39 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:39 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:40 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:41 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:49 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:10:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:14:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:15:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:16:22 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:16:30 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:16:34 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:16:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:17:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:17:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:19:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:20:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:20:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:20:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:21:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:21:41 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:24:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:25:58 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:28:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:28:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:31:34 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:32:43 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:37:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:39:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:39:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:39:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:40:31 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:40:34 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:40:37 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:41:01 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:41:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:41:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:43 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:51 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:44:54 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:45:39 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:46:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:47:43 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:55:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:55:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:59:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 04:59:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:22 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:00:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:01:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:01:36 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:02:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 05:03:01 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:05:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:11:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:11:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:34:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:36:22 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:37:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:37:59 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:38:03 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:46:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:54:32 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:54:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 06:57:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:36:50 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:15 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:21 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:24 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:24 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 07:54:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:10 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:15 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:24 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:37 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:47 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 08:00:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:06:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:06:37 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:06:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:07:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:07:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:07:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:07:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:15:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:25:26 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:34:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:37:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 09:52:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:03:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:03:43 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:05:01 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:05:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:18:49 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:19:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:19:34 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:19:35 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 10:19:45 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:19:42 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:28:53 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:14 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:29:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:15 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:19 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:30:59 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:09 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:11 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:12 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:31:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:35:01 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:35:03 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:35:03 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:37:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:38:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:38:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:38:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:38:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:38:31 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:56:51 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:37 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:57:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:58:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:58:08 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:58:52 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:58:59 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 11:59:02 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:03:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:03:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:03:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:13:40 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:13:41 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:18:06 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:16 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:25 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:30 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:32 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:36 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:42 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:19:51 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:20:27 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:20:28 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:20:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:55:46 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 12:59:44 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:00:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:00:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:01:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:09:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:11:17 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:27:22 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:35:29 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:42:54 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:46:11 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:46:13 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:50:22 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:56:38 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 13:58:18 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:01:47 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:06:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:06:55 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:07:00 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:07:41 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:08:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:08:56 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:13:27 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:13:32 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:14:11 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:14:37 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:20:46 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:26:50 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 14:35:05 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 15:35:06 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 15:50:30 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:01:09 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:01:12 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:25:12 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:26:32 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:26:53 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:29:45 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:31:08 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:33:42 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:35:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:35:58 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:38:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:38:27 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:38:29 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:38:30 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:39:31 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:40:31 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:15 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:26 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:26 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:26 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:35 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:41:46 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:42:21 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:45:56 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 16:56:11 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:06:20 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:06:27 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:18:05 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:54:43 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:55:12 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:55:20 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:55:21 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 17:55:27 UTC] PHP Parse error:  syntax error, unexpected 'test' (T_STRING) in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 18:11:57 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 18:12:23 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 18:13:48 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 18:31:30 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 18:33:33 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 19:02:36 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 19:10:07 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 19:11:30 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 19:25:49 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[28-Feb-2022 19:26:03 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[01-Mar-2022 01:45:52 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[01-Mar-2022 01:47:54 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[01-Mar-2022 02:56:13 UTC] PHP Parse error:  syntax error, unexpected identifier "test" in /home/prezenty/public_html/prezenty/common/config/params.php on line 12
+[02-Mar-2022 19:26:30 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 73. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 73. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Yh93jfB9if4gp2ZC7yGmYwAAAAg',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Yh93jfB9if4gp2ZC7yGmYwAAAAg',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Yh93jfB9if4gp2ZC7yGmYwAAAAg',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '4c18bbf7-bedc-4180-aaf6-892fdf964f41',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '228',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '58224',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646229389.454845905303955078125,
+    'REQUEST_TIME' => 1646229389,
+    'argv' => [],
+    'argc' => 0,
+]
+[02-Mar-2022 19:28:22 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 73. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 73. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'Yh93_vB9if4gp2ZC7yGmZAAAAAg',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'Yh93_vB9if4gp2ZC7yGmZAAAAAg',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'Yh93_vB9if4gp2ZC7yGmZAAAAAg',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/decentro-api/create-upi',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '1b3305f2-c74f-4e11-a77d-7ce34cb6105f',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '228',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '38865',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/decentro-api/create-upi',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646229502.3799269199371337890625,
+    'REQUEST_TIME' => 1646229502,
+    'argv' => [],
+    'argc' => 0,
+]
+[03-Mar-2022 18:14:41 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php on line 513. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(Error))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(Error))
+#4 {main}
+Previous exception:
+Error: Cannot use object of type stdClass as array in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php:516
+Stack trace:
+#0 [internal function]: api\modules\v1\controllers\OrderCreateController->actionCreateTest()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('create-test', Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/order-create...', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#7 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YiC4N1IFFrwSZl4PO8w8IgAAABE',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/order-create/create-test',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/order-create/create-test',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YiC4N1IFFrwSZl4PO8w8IgAAABE',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/order-create/create-test',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/order-create/create-test',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YiC4N1IFFrwSZl4PO8w8IgAAABE',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/order-create/create-test',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/order-create/create-test',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '891cefa3-b8ef-4034-b88d-73d809ad29c0',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '1092',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '157.46.142.102',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '48643',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/order-create/create-test',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646311479.151248931884765625,
+    'REQUEST_TIME' => 1646311479,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Mar-2022 10:24:40 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 405. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(Error))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(Error))
+#4 {main}
+Previous exception:
+Error: Object of class stdClass could not be converted to string in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php:407
+Stack trace:
+#0 [internal function]: api\modules\v1\controllers\TestController->actionWoohooVerify()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('woohoo-verify', Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/test/woohoo-...', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#7 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YigzEGMF5LpyJcRaWKYU9QAAAAY',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YigzEGMF5LpyJcRaWKYU9QAAAAY',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YigzEGMF5LpyJcRaWKYU9QAAAAY',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '3d14ea74-0113-4230-aa4e-69e53ea36fca',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '0',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '9049',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646801680.17442798614501953125,
+    'REQUEST_TIME' => 1646801680,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Mar-2022 10:26:19 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 406. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(Error))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(Error))
+#4 {main}
+Previous exception:
+Error: Object of class stdClass could not be converted to string in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php:407
+Stack trace:
+#0 [internal function]: api\modules\v1\controllers\TestController->actionWoohooVerify()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('woohoo-verify', Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/test/woohoo-...', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#7 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YigzcmMF5LpyJcRaWKYVBwAAAAY',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YigzcmMF5LpyJcRaWKYVBwAAAAY',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YigzcmMF5LpyJcRaWKYVBwAAAAY',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '585ab31a-8c93-4261-9cb9-cfba5da902a4',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '0',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '50492',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646801778.40375995635986328125,
+    'REQUEST_TIME' => 1646801778,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Mar-2022 11:45:51 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 406. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(Error))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(Error))
+#4 {main}
+Previous exception:
+Error: Object of class stdClass could not be converted to string in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php:407
+Stack trace:
+#0 [internal function]: api\modules\v1\controllers\TestController->actionWoohooVerify()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('woohoo-verify', Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/test/woohoo-...', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#7 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YihGFhVBjTU_iSQ5DrRpxAAAAAE',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YihGFhVBjTU_iSQ5DrRpxAAAAAE',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YihGFhVBjTU_iSQ5DrRpxAAAAAE',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/woohoo-verify',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '7943f83c-ff5b-4cb7-9d6e-51dbb1eab48d',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '0',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '8236',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/woohoo-verify',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646806550.6557390689849853515625,
+    'REQUEST_TIME' => 1646806550,
+    'argv' => [],
+    'argc' => 0,
+]
+[09-Mar-2022 12:50:13 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/EventParticipantController.php on line 776. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\ErrorException))
+#4 {main}
+Previous exception:
+yii\base\ErrorException: Array to string conversion in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/EventParticipantController.php:776
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/api/modules/v1/controllers/EventParticipantController.php(776): yii\base\ErrorHandler->handleError(2, 'Array to string...', '/home/prezenty/...', 776)
+#1 [internal function]: api\modules\v1\controllers\EventParticipantController->actionAccountDet('761')
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('account-det', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/event-partic...', Array)
+#6 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#8 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YihVLUIcEY9LgaWJje07MAAAAAI',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/event-participant/account-det',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/event-participant/account-det',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YihVLUIcEY9LgaWJje07MAAAAAI',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/event-participant/account-det',
+    'REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/event-participant/account-det',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YihVLUIcEY9LgaWJje07MAAAAAI',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/event-participant/account-det',
+    'SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/event-participant/account-det',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '6c4a5fe3-8157-4f63-b869-a25711fbe244',
+    'HTTP_HOST' => 'prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '614',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '6001',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'REDIRECT_QUERY_STRING' => 'event_id=761',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => 'event_id=761',
+    'REQUEST_URI' => '/prezenty/api/web/v1/event-participant/account-det?event_id=761',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1646810413.7783849239349365234375,
+    'REQUEST_TIME' => 1646810413,
+    'argv' => [
+        'event_id=761',
+    ],
+    'argc' => 1,
+]
+[15-Mar-2022 17:39:11 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 207. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\ErrorException))
+#4 {main}
+Previous exception:
+yii\base\ErrorException: Undefined variable $body in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php:208
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php(208): yii\base\ErrorHandler->handleError(2, 'Undefined varia...', '/home/prezenty/...', 208)
+#1 [internal function]: api\modules\v1\controllers\TestController->actionTest()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Controller.php(181): yii\base\InlineAction->runWithParams(Array)
+#4 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Module.php(534): yii\base\Controller->runAction('test', Array)
+#5 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction('v1/test/test', Array)
+#6 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#8 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YjCB5_A5lNWPSxkA572PMAAAAA0',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/test',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/test',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YjCB5_A5lNWPSxkA572PMAAAAA0',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/test',
+    'REDIRECT_SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/test',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'www.prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YjCB5_A5lNWPSxkA572PMAAAAA0',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/test',
+    'SCRIPT_URI' => 'https://www.prezenty.in/prezenty/api/web/v1/test/test',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'www.prezenty.in',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => 'a945c0fb-c26d-4236-8734-b89ef9ebf0a7',
+    'HTTP_HOST' => 'www.prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '0',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'www.prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '15169',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/test',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1647346151.0518081188201904296875,
+    'REQUEST_TIME' => 1647346151,
+    'argv' => [],
+    'argc' => 0,
+]
+[17-Mar-2022 00:02:29 Asia/Kolkata] PHP Fatal error:  Cannot use backend\models\User as User because the name is already in use in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 51
+[17-Mar-2022 00:02:54 Asia/Kolkata] PHP Fatal error:  Cannot use backend\models\UpiTransaction as UpiTransaction because the name is already in use in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 54
+[30-Mar-2022 13:04:23 Asia/Kolkata] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php on line 592
+[30-Mar-2022 13:07:25 Asia/Kolkata] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php on line 592
+[30-Mar-2022 14:23:42 Asia/Kolkata] PHP Fatal error:  Cannot use common\components\CustomHelper as CustomHelper because the name is already in use in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 42
+[30-Mar-2022 21:22:33 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YkR8v2mDCmMTaRqD-brCdQAAAAA',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YkR8v2mDCmMTaRqD-brCdQAAAAA',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YkR8v2mDCmMTaRqD-brCdQAAAAA',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => 'ccbd5e83-e0fd-487a-9bda-dfdf6b94ab16',
+    'HTTP_HOST' => 'prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '94',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '14988',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1648655551.7518699169158935546875,
+    'REQUEST_TIME' => 1648655551,
+    'argv' => [],
+    'argc' => 0,
+]
+[30-Mar-2022 21:24:22 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YkR9LJG9aykgD272CG-cHQAAAAM',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YkR9LJG9aykgD272CG-cHQAAAAM',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YkR9LJG9aykgD272CG-cHQAAAAM',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '524145c0-a0e9-4f14-9e29-1e823f5c730f',
+    'HTTP_HOST' => 'prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '94',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '11721',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1648655660.7936489582061767578125,
+    'REQUEST_TIME' => 1648655660,
+    'argv' => [],
+    'argc' => 0,
+]
+[30-Mar-2022 21:25:46 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 141. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YkR9ga5gc7-KsCh2fwYBAwAAABA',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YkR9ga5gc7-KsCh2fwYBAwAAABA',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YkR9ga5gc7-KsCh2fwYBAwAAABA',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => 'a3e60afd-387e-4e11-a42c-cb1391ceb17f',
+    'HTTP_HOST' => 'prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '94',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '22607',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1648655745.43609905242919921875,
+    'REQUEST_TIME' => 1648655745,
+    'argv' => [],
+    'argc' => 0,
+]
+[30-Mar-2022 21:26:43 Asia/Kolkata] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 140. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/TestController.php on line 140. in /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php:373
+Stack trace:
+#0 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/web/Response.php(346): yii\web\Response->sendHeaders()
+#1 /home/prezenty/public_html/prezenty/vendor/yiisoft/yii2/base/Application.php(398): yii\web\Response->send()
+#2 /home/prezenty/public_html/prezenty/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'TZ' => 'Asia/Kolkata',
+    'REDIRECT_REDIRECT_UNIQUE_ID' => 'YkR9uet-XKnXHHueu3lb_gAAAAg',
+    'REDIRECT_REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_REDIRECT_HTTPS' => 'on',
+    'REDIRECT_REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'YkR9uet-XKnXHHueu3lb_gAAAAg',
+    'REDIRECT_HTTP_AUTHORIZATION' => '',
+    'REDIRECT_SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'REDIRECT_SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'REDIRECT_HTTPS' => 'on',
+    'REDIRECT_SSL_TLS_SNI' => 'prezenty.in',
+    'REDIRECT_HANDLER' => 'application/x-httpd-ea-php80',
+    'REDIRECT_STATUS' => '200',
+    'UNIQUE_ID' => 'YkR9uet-XKnXHHueu3lb_gAAAAg',
+    'HTTP_AUTHORIZATION' => '',
+    'SCRIPT_URL' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_URI' => 'https://prezenty.in/prezenty/api/web/v1/test/mail',
+    'HTTPS' => 'on',
+    'SSL_TLS_SNI' => 'prezenty.in',
+    'CONTENT_TYPE' => 'application/json',
+    'HTTP_USER_AGENT' => 'PostmanRuntime/7.29.0',
+    'HTTP_ACCEPT' => '*/*',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_POSTMAN_TOKEN' => '7b87594b-f433-4596-af83-378b4bb0c149',
+    'HTTP_HOST' => 'prezenty.in',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'CONTENT_LENGTH' => '94',
+    'HTTP_X_HTTPS' => '1',
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin',
+    'SERVER_SIGNATURE' => '',
+    'SERVER_SOFTWARE' => 'Apache',
+    'SERVER_NAME' => 'prezenty.in',
+    'SERVER_ADDR' => '103.195.184.250',
+    'SERVER_PORT' => '443',
+    'REMOTE_ADDR' => '54.86.50.139',
+    'DOCUMENT_ROOT' => '/home/prezenty/public_html',
+    'REQUEST_SCHEME' => 'https',
+    'CONTEXT_PREFIX' => '/cgi-sys',
+    'CONTEXT_DOCUMENT_ROOT' => '/usr/local/cpanel/cgi-sys/',
+    'SERVER_ADMIN' => 'webmaster@prezenty.in',
+    'SCRIPT_FILENAME' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'REMOTE_PORT' => '60592',
+    'REDIRECT_URL' => '/prezenty/api/web/index.php',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'REQUEST_METHOD' => 'POST',
+    'QUERY_STRING' => '',
+    'REQUEST_URI' => '/prezenty/api/web/v1/test/mail',
+    'SCRIPT_NAME' => '/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_FILENAME' => '/usr/local/cpanel/cgi-sys/ea-php80',
+    'ORIG_PATH_INFO' => '/prezenty/api/web/index.php',
+    'ORIG_PATH_TRANSLATED' => '/home/prezenty/public_html/prezenty/api/web/index.php',
+    'ORIG_SCRIPT_NAME' => '/cgi-sys/ea-php80',
+    'PHP_SELF' => '/prezenty/api/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1648655801.80288410186767578125,
+    'REQUEST_TIME' => 1648655801,
+    'argv' => [],
+    'argc' => 0,
+]
+[11-Apr-2022 12:25:53 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:28:02 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:28:24 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:28:38 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:34:31 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:34:37 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:34:40 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:43:14 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:44:21 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:44:32 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:45:10 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:46:39 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:48:12 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:51:50 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 12:59:26 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 13:51:10 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 14:06:47 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 14:36:08 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 14:37:48 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 3
+[11-Apr-2022 14:45:08 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[11-Apr-2022 14:45:08 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[11-Apr-2022 14:45:10 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[11-Apr-2022 14:45:10 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[11-Apr-2022 14:45:15 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[11-Apr-2022 14:45:45 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/DecentroApiController.php on line 4
+[12-Apr-2022 12:27:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare api\modules\v1\controllers\OrderCreateController::behaviors() in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php on line 102
+[12-Apr-2022 12:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare api\modules\v1\controllers\OrderCreateController::behaviors() in /home/prezenty/public_html/prezenty/api/modules/v1/controllers/OrderCreateController.php on line 102

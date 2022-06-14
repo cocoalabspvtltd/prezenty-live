@@ -1,0 +1,21 @@
+event_gift_voucher = table added barcode
+
+EventGiftVoucher = backend/model/ updated with barcode field
+
+gift_voucher = table added description
+
+GiftVoucher = backend/models/ updated with description field and account details
+
+SummaryController = api
+
+backend/views/gift-voucher = form and index and view
+
+Backend/controller/giftvouchercontroller
+
+gift_voucher_redeem table added
+
+backend/models/ added model giftvoucherredeem
+
+
+
+

@@ -1,0 +1,27 @@
+
+# RewriteEngine On
+
+
+
+# RewriteRule .* - [E=REDIRECT_REDIRECT_HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+# RewriteCond %{HTTP:Authorization} ^(.*)
+# RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+# SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+
+
+# RewriteEngine on
+# # If a directory or a file exists, use it directly
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# # Otherwise forward it to index.php
+# RewriteRule . index.php
+# RewriteCond %{HTTP:Authorization} ^(.+)$
+# RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+# RewriteCond %{HTTP:Authorization} ^(.*)
+# RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
